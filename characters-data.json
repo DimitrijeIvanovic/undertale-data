@@ -1,15 +1,21 @@
 [
   {
-    "id": 1, 
+    "id": 1,
     "name": "Toriel",
     "description": "Toriel is a kind, protective, motherly Boss Monster who once served as queen of the Underground. She uses fire magic and tries to protect the protagonist by keeping them in the Ruins. Despite her warm nature, she can become fierce when protecting those she cares about.",
-    "hp": 440, 
+    "hp": 440,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/toriel.webp",
     "species": "Boss Monster",
-    "attacks": ["Fireball", "Fire Magic", "Flame Wave", "Spare (if low HP)", "Butterscotch Pie"], 
-    "location": { 
+    "attacks": [
+      "Fireball",
+      "Fire Magic",
+      "Flame Wave",
+      "Spare (if low HP)",
+      "Butterscotch Pie"
+    ],
+    "location": {
       "id": 1,
       "name": "The Ruins",
       "region": "Underground",
@@ -25,9 +31,15 @@
     "hp": 1,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1571624461698-be4b5b8ac5be?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/sans.webp",
     "species": "Skeleton",
-    "attacks": ["Gaster Blaster", "Bone Attack", "Karma", "Telekinesis", "Special Attack"],
+    "attacks": [
+      "Gaster Blaster",
+      "Bone Attack",
+      "Karma",
+      "Telekinesis",
+      "Special Attack"
+    ],
     "location": {
       "id": 2,
       "name": "Snowdin",
@@ -44,9 +56,15 @@
     "hp": 680,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1598511726623-d2e9996892f0?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/papyrus.webp",
     "species": "Skeleton",
-    "attacks": ["Blue Attack", "Regular Bones", "Cool Dude Mode", "Special Attack", "Spare (always available)"],
+    "attacks": [
+      "Blue Attack",
+      "Regular Bones",
+      "Cool Dude Mode",
+      "Special Attack",
+      "Spare (always available)"
+    ],
     "location": {
       "id": 2,
       "name": "Snowdin",
@@ -63,9 +81,15 @@
     "hp": 1500,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/undyne.webp",
     "species": "Fish Monster",
-    "attacks": ["Spear Throw", "Yellow Spear Block", "Red Spear", "Green Soul", "Arrow Rain"],
+    "attacks": [
+      "Spear Throw",
+      "Yellow Spear Block",
+      "Red Spear",
+      "Green Soul",
+      "Arrow Rain"
+    ],
     "location": {
       "id": 3,
       "name": "Waterfall",
@@ -82,9 +106,13 @@
     "hp": 0,
     "isBoss": false,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/alphys.webp",
     "species": "Dinosaur Monster",
-    "attacks": ["No combat encounter", "Provides help via phone", "Sends puzzles"],
+    "attacks": [
+      "No combat encounter",
+      "Provides help via phone",
+      "Sends puzzles"
+    ],
     "location": {
       "id": 4,
       "name": "Hotland",
@@ -101,9 +129,15 @@
     "hp": 1000,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/mettaton.webp",
     "species": "Robot",
-    "attacks": ["Bomb Throw", "Disco Ball", "Leg Attack", "Mini Mettaton", "Heart Attack"],
+    "attacks": [
+      "Bomb Throw",
+      "Disco Ball",
+      "Leg Attack",
+      "Mini Mettaton",
+      "Heart Attack"
+    ],
     "location": {
       "id": 4,
       "name": "Hotland",
@@ -120,9 +154,15 @@
     "hp": 3500,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/asgore.webp",
     "species": "Boss Monster",
-    "attacks": ["Trident Swing", "Fire Magic", "Flame Wave", "Warning Attack", "Mercy Destroy"],
+    "attacks": [
+      "Trident Swing",
+      "Fire Magic",
+      "Flame Wave",
+      "Warning Attack",
+      "Mercy Destroy"
+    ],
     "location": {
       "id": 9,
       "name": "Throne Room",
@@ -139,9 +179,15 @@
     "hp": 10000,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/flowey.webp",
     "species": "Flower",
-    "attacks": ["Friendliness Pellets", "Vines", "Flamethrower", "Bombs", "Reality Manipulation"],
+    "attacks": [
+      "Friendliness Pellets",
+      "Vines",
+      "Flamethrower",
+      "Bombs",
+      "Reality Manipulation"
+    ],
     "location": {
       "id": 1,
       "name": "The Ruins",
@@ -158,9 +204,15 @@
     "hp": 9999,
     "isBoss": true,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/asriel_dreemur.webp",
     "species": "Boss Monster",
-    "attacks": ["Chaos Saber", "Chaos Buster", "Shocker Breaker", "Star Blazing", "Hyper Goner"],
+    "attacks": [
+      "Chaos Saber",
+      "Chaos Buster",
+      "Shocker Breaker",
+      "Star Blazing",
+      "Hyper Goner"
+    ],
     "location": {
       "id": 10,
       "name": "The Barrier",
@@ -177,7 +229,7 @@
     "hp": 88,
     "isBoss": false,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/napstablook.webp",
     "species": "Ghost",
     "attacks": ["Tears", "Hat Throw", "Dapper Blook", "Completely Invincible"],
     "location": {
@@ -196,9 +248,14 @@
     "hp": 0,
     "isBoss": false,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1589019664946-619dd6e1d6c0?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/monster_kid.webp",
     "species": "Reptilian Monster",
-    "attacks": ["No combat encounter", "Follows you around", "Trips frequently", "Cheers you on"],
+    "attacks": [
+      "No combat encounter",
+      "Follows you around",
+      "Trips frequently",
+      "Cheers you on"
+    ],
     "location": {
       "id": 3,
       "name": "Waterfall",
@@ -215,9 +272,14 @@
     "hp": 666666,
     "isBoss": false,
     "firstEncounter": "2015-09-15",
-    "imageUrl": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=800",
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/gaster.webp",
     "species": "Unknown",
-    "attacks": ["Cannot be fought", "Exists outside reality", "Dimensional anomaly", "Erased from existence"],
+    "attacks": [
+      "Cannot be fought",
+      "Exists outside reality",
+      "Dimensional anomaly",
+      "Erased from existence"
+    ],
     "location": {
       "id": 5,
       "name": "The Core",
