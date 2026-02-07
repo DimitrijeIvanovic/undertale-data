@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1, 
+    "name": "Toriel",
+    "description": "Toriel is a kind, protective, motherly Boss Monster who once served as queen of the Underground. She uses fire magic and tries to protect the protagonist by keeping them in the Ruins. Despite her warm nature, she can become fierce when protecting those she cares about.",
+    "hp": 440, 
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800",
+    "species": "Boss Monster",
+    "attacks": ["Fireball", "Fire Magic", "Flame Wave", "Spare (if low HP)", "Butterscotch Pie"], 
+    "location": { 
+      "id": 1,
+      "name": "The Ruins",
+      "region": "Underground",
+      "difficulty": 1,
+      "musicTrack": "Ruins",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sans",
+    "description": "Sans is a laid-back skeleton who loves puns and practical jokes. He serves as a sentry in Snowdin Forest alongside his brother Papyrus. Despite his lazy demeanor, he possesses incredible power and knowledge, especially evident in certain routes. He's the easiest enemy with only 1 HP and 1 ATK, but also potentially the hardest.",
+    "hp": 1,
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1571624461698-be4b5b8ac5be?w=800",
+    "species": "Skeleton",
+    "attacks": ["Gaster Blaster", "Bone Attack", "Karma", "Telekinesis", "Special Attack"],
+    "location": {
+      "id": 2,
+      "name": "Snowdin",
+      "region": "Underground",
+      "difficulty": 2,
+      "musicTrack": "Snowdin Town",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 3,
+    "name": "Papyrus",
+    "description": "Papyrus is an enthusiastic, confident skeleton who dreams of joining the Royal Guard. He's Sans' younger brother and is known for his elaborate puzzles and his belief in others' potential for goodness. His spaghetti cooking skills are... questionable, but his heart is pure gold.",
+    "hp": 680,
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1598511726623-d2e9996892f0?w=800",
+    "species": "Skeleton",
+    "attacks": ["Blue Attack", "Regular Bones", "Cool Dude Mode", "Special Attack", "Spare (always available)"],
+    "location": {
+      "id": 2,
+      "name": "Snowdin",
+      "region": "Underground",
+      "difficulty": 2,
+      "musicTrack": "Snowdin Town",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 4,
+    "name": "Undyne",
+    "description": "Undyne is the head of the Royal Guard and a fierce warrior with a burning passion for justice. She wields a spear and uses determination to persist even after being defeated. Behind her tough exterior, she's a loyal friend who loves anime and cooking (though not very well). She mentors Papyrus and is best friends with Alphys.",
+    "hp": 1500,
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=800",
+    "species": "Fish Monster",
+    "attacks": ["Spear Throw", "Yellow Spear Block", "Red Spear", "Green Soul", "Arrow Rain"],
+    "location": {
+      "id": 3,
+      "name": "Waterfall",
+      "region": "Underground",
+      "difficulty": 3,
+      "musicTrack": "Waterfall",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 5,
+    "name": "Alphys",
+    "description": "Dr. Alphys is the royal scientist of the Underground, a shy and nerdy dinosaur-like monster. She loves anime, science fiction, and has a crush on Undyne. She created Mettaton's body and conducted experiments with determination. Despite her insecurities, she's brilliant and caring, though she struggles with the consequences of her past actions.",
+    "hp": 0,
+    "isBoss": false,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800",
+    "species": "Dinosaur Monster",
+    "attacks": ["No combat encounter", "Provides help via phone", "Sends puzzles"],
+    "location": {
+      "id": 4,
+      "name": "Hotland",
+      "region": "Underground",
+      "difficulty": 4,
+      "musicTrack": "Another Medium",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 6,
+    "name": "Mettaton",
+    "description": "Mettaton is a robot built by Alphys, originally a ghost who wanted a more glamorous form. He's the Underground's premier entertainment robot, hosting shows and quiz games. While initially appearing antagonistic, he genuinely cares about humans and monsters. His EX form reveals his true fabulous nature with incredible power and style.",
+    "hp": 1000,
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=800",
+    "species": "Robot",
+    "attacks": ["Bomb Throw", "Disco Ball", "Leg Attack", "Mini Mettaton", "Heart Attack"],
+    "location": {
+      "id": 4,
+      "name": "Hotland",
+      "region": "Underground",
+      "difficulty": 4,
+      "musicTrack": "Another Medium",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 7,
+    "name": "Asgore Dreemurr",
+    "description": "Asgore Dreemurr is the king of all monsters and the final boss in the Neutral and Pacifist routes. Once a kind and gentle ruler, he declared war on humanity after the death of his children. He wields a massive trident and uses powerful fire magic. Despite his fearsome reputation, he's a gentle soul who loves gardening, tea, and dad jokes.",
+    "hp": 3500,
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?w=800",
+    "species": "Boss Monster",
+    "attacks": ["Trident Swing", "Fire Magic", "Flame Wave", "Warning Attack", "Mercy Destroy"],
+    "location": {
+      "id": 9,
+      "name": "Throne Room",
+      "region": "Underground",
+      "difficulty": 8,
+      "musicTrack": "Bergentrückung",
+      "hasSavePoint": false
+    }
+  },
+  {
+    "id": 8,
+    "name": "Flowey",
+    "description": "Flowey is a sentient flower who appears early in the game with a sinister smile. He's actually the first fallen human's best friend Asriel, transformed and corrupted. Without a soul, he lost his ability to feel compassion and became manipulative and cruel. He serves as the tutorial enemy and later the photoshop Flowey boss. His famous phrase is 'In this world, it's kill or be killed.'",
+    "hp": 10000,
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800",
+    "species": "Flower",
+    "attacks": ["Friendliness Pellets", "Vines", "Flamethrower", "Bombs", "Reality Manipulation"],
+    "location": {
+      "id": 1,
+      "name": "The Ruins",
+      "region": "Underground",
+      "difficulty": 1,
+      "musicTrack": "Ruins",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 9,
+    "name": "Asriel Dreemurr",
+    "description": "Asriel Dreemurr is the biological son of Toriel and Asgore, and the adopted brother of the first fallen human. After his death, he was reborn as Flowey. In the True Pacifist route, he is the final boss in his full God of Hyperdeath form. Deep down, he's still the kind, caring child who just wanted to free everyone and see the flowers on the surface.",
+    "hp": 9999,
+    "isBoss": true,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800",
+    "species": "Boss Monster",
+    "attacks": ["Chaos Saber", "Chaos Buster", "Shocker Breaker", "Star Blazing", "Hyper Goner"],
+    "location": {
+      "id": 10,
+      "name": "The Barrier",
+      "region": "Underground",
+      "difficulty": 9,
+      "musicTrack": "An Ending",
+      "hasSavePoint": false
+    }
+  },
+  {
+    "id": 10,
+    "name": "Napstablook",
+    "description": "Napstablook is a melancholic ghost who loves music and lies on the ground feeling like garbage. They're Mettaton's cousin and a talented DJ/musician who creates beautiful soundtracks. Despite their depression, they're genuinely kind and one of the few monsters you can't truly fight. Their tears can hurt you though. They run a snail farm and enjoy sharing music with friends.",
+    "hp": 88,
+    "isBoss": false,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800",
+    "species": "Ghost",
+    "attacks": ["Tears", "Hat Throw", "Dapper Blook", "Completely Invincible"],
+    "location": {
+      "id": 1,
+      "name": "The Ruins",
+      "region": "Underground",
+      "difficulty": 1,
+      "musicTrack": "Ruins",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 11,
+    "name": "Monster Kid",
+    "description": "Monster Kid is an enthusiastic, energetic young monster with a yellow reptilian appearance. They idolize Undyne and dream of becoming a hero just like her. Despite having no arms, Monster Kid is incredibly brave and adventurous, always trying to keep up with Undyne. They're genuinely kind-hearted and their admiration for heroes is infectious. You can't actually fight Monster Kid as they're not an enemy.",
+    "hp": 0,
+    "isBoss": false,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1589019664946-619dd6e1d6c0?w=800",
+    "species": "Reptilian Monster",
+    "attacks": ["No combat encounter", "Follows you around", "Trips frequently", "Cheers you on"],
+    "location": {
+      "id": 3,
+      "name": "Waterfall",
+      "region": "Underground",
+      "difficulty": 3,
+      "musicTrack": "Waterfall",
+      "hasSavePoint": true
+    }
+  },
+  {
+    "id": 12,
+    "name": "W.D. Gaster",
+    "description": "W.D. Gaster was the royal scientist before Alphys, who fell into his own creation and was shattered across time and space. He's a mysterious figure who now exists outside of reality, only appearing in rare circumstances to those with specific FUN values. He speaks in hands (Wingdings font) and is associated with the CORE and various experiments. His followers speak of him in hushed tones, and his true nature remains one of Undertale's greatest mysteries.",
+    "hp": 666666,
+    "isBoss": false,
+    "firstEncounter": "2015-09-15",
+    "imageUrl": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=800",
+    "species": "Unknown",
+    "attacks": ["Cannot be fought", "Exists outside reality", "Dimensional anomaly", "Erased from existence"],
+    "location": {
+      "id": 5,
+      "name": "The Core",
+      "region": "Underground",
+      "difficulty": 5,
+      "musicTrack": "CORE",
+      "hasSavePoint": true
+    }
+  }
+]

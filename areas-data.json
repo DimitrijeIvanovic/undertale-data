@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1, 
+    "name": "The Ruins", 
+    "region": "Underground",
+    "difficulty": 1, 
+    "musicTrack": "Ruins",
+    "hasSavePoint": true 
+  },
+  {
+    "id": 2,
+    "name": "Snowdin",
+    "region": "Underground",
+    "difficulty": 2,
+    "musicTrack": "Snowdin Town",
+    "hasSavePoint": true
+  },
+  {
+    "id": 3,
+    "name": "Waterfall",
+    "region": "Underground",
+    "difficulty": 3,
+    "musicTrack": "Waterfall",
+    "hasSavePoint": true
+  },
+  {
+    "id": 4,
+    "name": "Hotland",
+    "region": "Underground",
+    "difficulty": 4,
+    "musicTrack": "Another Medium",
+    "hasSavePoint": true
+  },
+  {
+    "id": 5,
+    "name": "The Core",
+    "region": "Underground",
+    "difficulty": 5,
+    "musicTrack": "CORE",
+    "hasSavePoint": true
+  },
+  {
+    "id": 6,
+    "name": "New Home",
+    "region": "Underground",
+    "difficulty": 6,
+    "musicTrack": "Undertale",
+    "hasSavePoint": false
+  },
+  {
+    "id": 7,
+    "name": "True Lab",
+    "region": "Underground",
+    "difficulty": 5,
+    "musicTrack": "Here We Are",
+    "hasSavePoint": false
+  },
+  {
+    "id": 8,
+    "name": "Judgment Hall",
+    "region": "Underground",
+    "difficulty": 7,
+    "musicTrack": "Judgment",
+    "hasSavePoint": false
+  },
+  {
+    "id": 9,
+    "name": "Throne Room",
+    "region": "Underground",
+    "difficulty": 8,
+    "musicTrack": "Bergentrückung",
+    "hasSavePoint": false
+  },
+  {
+    "id": 10,
+    "name": "The Barrier",
+    "region": "Underground",
+    "difficulty": 9,
+    "musicTrack": "An Ending",
+    "hasSavePoint": false
+  }
+]
