@@ -5,7 +5,8 @@
     "region": "Underground",
     "difficulty": 1,
     "musicTrack": "Ruins",
-    "hasSavePoint": true
+    "hasSavePoint": true,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/ruins.webp"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "region": "Underground",
     "difficulty": 2,
     "musicTrack": "Snowdin Town",
-    "hasSavePoint": true
+    "hasSavePoint": true,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/snowdin.webp"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "region": "Underground",
     "difficulty": 3,
     "musicTrack": "Waterfall",
-    "hasSavePoint": true
+    "hasSavePoint": true,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/waterfall.webp"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "region": "Underground",
     "difficulty": 4,
     "musicTrack": "Another Medium",
-    "hasSavePoint": true
+    "hasSavePoint": true,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/hotland.webp"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "region": "Underground",
     "difficulty": 5,
     "musicTrack": "CORE",
-    "hasSavePoint": true
+    "hasSavePoint": true,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/thecore.webp"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "region": "Underground",
     "difficulty": 6,
     "musicTrack": "Undertale",
-    "hasSavePoint": false
+    "hasSavePoint": false,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/newhome.webp"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "region": "Underground",
     "difficulty": 5,
     "musicTrack": "Here We Are",
-    "hasSavePoint": false
+    "hasSavePoint": false,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/truelab.webp"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "region": "Underground",
     "difficulty": 7,
     "musicTrack": "Judgment",
-    "hasSavePoint": false
+    "hasSavePoint": false,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/judgementhall.webp"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "region": "Underground",
     "difficulty": 8,
     "musicTrack": "Bergentrückung",
-    "hasSavePoint": false
+    "hasSavePoint": false,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/throneroom.webp"
   },
   {
     "id": 10,
@@ -77,6 +86,7 @@
     "region": "Underground",
     "difficulty": 9,
     "musicTrack": "An Ending",
-    "hasSavePoint": false
+    "hasSavePoint": false,
+    "imageUrl": "https://raw.githubusercontent.com/DimitrijeIvanovic/undertale-data/refs/heads/main/images/thebarrier.webp"
   }
 ]
