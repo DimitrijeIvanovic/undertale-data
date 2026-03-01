@@ -1,11 +1,11 @@
 [
   {
-    "id": 1, 
-    "name": "The Ruins", 
+    "id": 1,
+    "name": "The Ruins",
     "region": "Underground",
-    "difficulty": 1, 
+    "difficulty": 1,
     "musicTrack": "Ruins",
-    "hasSavePoint": true 
+    "hasSavePoint": true
   },
   {
     "id": 2,
